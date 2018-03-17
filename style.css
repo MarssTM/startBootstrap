@@ -1,5 +1,36 @@
-azul: #007bff;
-gris: #f8f9fa;
+
 ul{
 	list-style: none;
 }
+li {
+	margin-top: 20px;
+}
+h1 {
+	font-size: 20px;
+	font-style: black;
+	margin-left: 20px;
+	text-align: left;
+}
+button {
+	height: 40px;
+	width: 200px;
+	background-color: #007bff;
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 300px;
+	font-style: black;
+	font-size: 15px;
+	color: white;
+	text-align: bottom;
+}
+input {
+	height: 30px;
+	width: 400px;
+	margin-left: 150px;
+
+}
+.back{
+	background-image: url(bg-masthead.jpg);
+	margin-top: 10px;
+	padding-top: 200px;
+} 
