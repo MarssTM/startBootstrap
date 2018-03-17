@@ -11,26 +11,34 @@ h1 {
 	margin-left: 20px;
 	text-align: left;
 }
+h2 {
+	text-align: center;
+	color:white;
+}
 button {
 	height: 40px;
 	width: 200px;
 	background-color: #007bff;
-	padding: 10px;
 	margin-top: 10px;
-	margin-left: 300px;
 	font-style: black;
 	font-size: 15px;
 	color: white;
 	text-align: bottom;
 }
 input {
-	height: 30px;
+	height: 40px;
 	width: 400px;
-	margin-left: 150px;
+	margin-left: 250px;
 
 }
 .back{
+	height: 600px;
 	background-image: url(bg-masthead.jpg);
 	margin-top: 10px;
 	padding-top: 200px;
 } 
+.regis{
+	padding: 10px;
+	margin-right: 20px;
+	float: right;
+}
